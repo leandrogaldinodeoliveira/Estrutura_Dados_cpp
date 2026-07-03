@@ -21,7 +21,7 @@ O objetivo deste repositório é estudar a implementação de estruturas de dado
 
 ## Organização
 
-Cada estrutura possui sua própria pasta, contendo os arquivos de implementação e um programa principal para testes.
+Cada estrutura possui sua própria pasta, contendo os arquivos de implementação.
 
 ## Licença
 
